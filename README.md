@@ -1,2 +1,0 @@
-# Wooly-QA
-Wooly QA
